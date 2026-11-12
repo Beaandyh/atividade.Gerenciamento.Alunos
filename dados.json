@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "matricula": "2026A01",
+    "nome": "CARLOS EDUARDO SILVA",
+    "turma": "3A",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 8,
+    "alertaTempo": false
+  },
+  {
+    "id": 4,
+    "matricula": "2026A22",
+    "nome": "JULIA FERNANDES LIMA",
+    "turma": "3A",
+    "data": "2026-10-23",
+    "presente": false,
+    "motivoSaida": "ENFERMARIA",
+    "minutosFora": 0,
+    "alertaTempo": false
+  },
+  {
+    "id": 6,
+    "matricula": "2026B03",
+    "nome": "MARIANA COSTA RIBEIRO",
+    "turma": "3B",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "COORDENACAO",
+    "minutosFora": 12,
+    "alertaTempo": false
+  },
+  {
+    "id": 20,
+    "matricula": "2026B03",
+    "nome": "BIANCA RIBEIRO",
+    "turma": "1B",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "COORDENACAO",
+    "minutosFora": 12,
+    "alertaTempo": false
+  },
+  {
+    "id": 2,
+    "matricula": "2026B03",
+    "nome": "BIANCA RIBEIRO",
+    "turma": "1B",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "COORDENACAO",
+    "minutosFora": 12,
+    "alertaTempo": false
+  },
+  {
+    "id": 3,
+    "matricula": "2026B03",
+    "nome": "BIANCA RIBEIRO",
+    "turma": "1B",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "COORDENACAO",
+    "minutosFora": 12,
+    "alertaTempo": false
+  },
+  {
+    "id": 21,
+    "matricula": "2026B03",
+    "nome": "BIANCA A. RIBEIRO",
+    "turma": "1B",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "COORDENACAO",
+    "minutosFora": 12,
+    "alertaTempo": false
+  }
+]
